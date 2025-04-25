@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuizVoyage/static/css/main.b372c49f.css",
+    "main.js": "/QuizVoyage/static/js/main.947ee2a2.js",
+    "static/js/453.fc01f49c.chunk.js": "/QuizVoyage/static/js/453.fc01f49c.chunk.js",
+    "index.html": "/QuizVoyage/index.html",
+    "main.b372c49f.css.map": "/QuizVoyage/static/css/main.b372c49f.css.map",
+    "main.947ee2a2.js.map": "/QuizVoyage/static/js/main.947ee2a2.js.map",
+    "453.fc01f49c.chunk.js.map": "/QuizVoyage/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b372c49f.css",
+    "static/js/main.947ee2a2.js"
+  ]
+}
